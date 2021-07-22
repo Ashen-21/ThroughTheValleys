@@ -97,7 +97,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 1. Download the latest version of Wabbajack.
 2. Create a new folder anywhere that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
 3. Place the downloaded Wabbajack.exe into this folder.
-4. Download the latest [Wabbajack file]() of this modlist.
+4. Download the latest [Wabbajack file](https://drive.google.com/file/d/1IEVpVQtQ2Ysu3Yb4rK0TPsDM2nvqjveG/view?usp=sharing) of this modlist.
 5. Run **Wabbajack.exe**.
 6. Select **Install From Disk**. Click on **···** next to **Target Modlist** to browse for the downloaded modlist.
 7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
@@ -131,6 +131,25 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 
 Most of the in game settings work fine as are. I do however reccommend setting your view distance to maximum so you can actually see and enjoy the LOD. Makes a huge difference IMO. Otherwise, do not turn Self Shadowing on. This setting is buggy and will cause your NPCs to have neck seams.
 
+## Mods To Be Familiar With
+
+Ascension(https://www.nexusmods.com/oblivion/mods/50237)
+Ascension totally overhauls the game to be more balanced as well as more difficult. Health is determined solely by endurance. Magicka and fatigue regenerate slower. You can carry less based on your strength. I highly reccommend reading the full log of all the changes in this mod.
+
+Balanced Unleveled Rewards(https://www.nexusmods.com/oblivion/mods/51050/)
+Balanced unleveled rewards (as well as Balanced NPC level cap) remove the dynamic level scaling from the game and replace it with a more sensical static rebalance of items.
+
+Oblivion DLC Delayers(https://www.nexusmods.com/oblivion/mods/47089)
+Avoid a deluge of quest popups upon entering Cyrodiil. Check this page to learn how to start each DLC (including house dlcs).
+
+Simple Saves Plus(https://www.nexusmods.com/oblivion/mods/51122)
+Completely replaces the vanilla autosave system. Force an autosave using a hotkey, default is numpad 0.
+
+Simple Horse Utilities(https://www.nexusmods.com/oblivion/mods/51197)
+Adds a spell that lets you call your horse, as well as adds saddlebags (Sneak and interact with horse to open).
+
+Teleportation Services(https://www.nexusmods.com/oblivion/mods/50141)
+Ascension removes the vanilla fast travel points available to you at the beginning of the game, but fear not as Teleportation Services have you covered. Adds teleporation (for a fee) at the Mages Guild and Nine Divines Wayshrines.
 
 ## UPDATING
 
