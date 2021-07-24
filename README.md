@@ -101,7 +101,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 5. Run **Wabbajack.exe**.
 6. Select **Install From Disk**. Click on **···** next to **Target Modlist** to browse for the downloaded modlist.
 7. In **Installation Location** select an empty folder that is **NOT** under C:\Program Files, C:\Users or C:\Windows.
-   * Do **not** install this list in your **Steam**, **Fallout 4** folder or the folder with **Wabbajack.exe**.
+   * Do **not** install this list in your **Steam**, **Oblivion** folder or the folder with **Wabbajack.exe**.
 8. The downloads location will auto-populate. This can be changed if preferred.
 9.  Click the button with the Play Arrow to begin the process.
 10. Accept the Nexusmods API request if asked.
