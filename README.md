@@ -116,7 +116,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 3. Copy all files in this folder and paste it into your Oblivion installation folder.
    * **COPY _ONLY_ THE FILES IN THE "GAME FOLDER FILES" FOLDER.**
    * If asked, let it overwrite everything
-   * Run "4gb patch.exe"
+   * Run "4gb patch.exe", patch both Oblivion.exe and OblivionLauncher.exe
 
 ### Playing The Game
 
