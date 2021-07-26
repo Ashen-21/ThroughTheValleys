@@ -127,7 +127,7 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 5. Optionally, with Oblivion.exe selected, click shortcut and then desktop. This way you can launch Oblivion without running MO2.
     * Reccommended(https://www.nexusmods.com/oblivion/mods/46446)
 
-##LOD##
+## LOD
 I have now added generated LOD along with some VWD files. The LOD is disabled by default, as it *will* cause performance drops on most PCs. Oblivion is old and crusty, that's just the way it works. If you struggle to maintain 60 fps, I would not reccommend enabling it. On the other hand if you don't mind losing a few frames to enjoy some pretty architecture from a far, enable LOD (Experimental) in the left pane.
 
 
