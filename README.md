@@ -127,6 +127,10 @@ This entire Modlist is in English and 99% of all mods you will find are also in 
 5. Optionally, with Oblivion.exe selected, click shortcut and then desktop. This way you can launch Oblivion without running MO2.
     * Reccommended(https://www.nexusmods.com/oblivion/mods/46446)
 
+##LOD##
+I have now added generated LOD along with some VWD files. The LOD is disabled by default, as it *will* cause performance drops on most PCs. Oblivion is old and crusty, that's just the way it works. If you struggle to maintain 60 fps, I would not reccommend enabling it. On the other hand if you don't mind losing a few frames to enjoy some pretty architecture from a far, enable LOD (Experimental) in the left pane.
+
+
 ## In game settings
 
 Most of the in game settings work fine as are. I do however reccommend setting your view distance to maximum so you can actually see and enjoy the LOD. Makes a huge difference IMO. Otherwise, do not turn Self Shadowing on. This setting is buggy and will cause your NPCs to have neck seams.
