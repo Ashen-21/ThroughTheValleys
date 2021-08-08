@@ -6,6 +6,8 @@ Through The Valleys is a vanilla plus modlist in the style of Viva New Vegas, ba
 
 Check out the original guide(https://www.nexusmods.com/oblivion/mods/51105?tab=description)!
 
+**DO NOT DM ME ASKING FOR SUPPORT, YOU WILL BE BLOCKED. ASK IN THE APPROPRIATE CHANNELS.**
+
 ## TABLE OF CONTENTS <!-- omit in toc -->
 - [REQUIREMENTS](#requirements)
 - [PREPARATION](#preparation)
