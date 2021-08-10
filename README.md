@@ -177,4 +177,10 @@ Updating is the same as installing. You only have to make sure that you select t
 * ALL the mod authors that made the mods featured in this list.
 * Halgari and everyone in the Wabbajack Team.
 
+## PERMISSIONS
+
+This modlist is based off of PushTheWinButton's original work, and all permission to modify/fork the list must be sought from him.
+All mods featured in this modlist belong to their original creator.
+The wabbajack file is subject to the terms set forth by the Wabbajack developers, and as such will forever and always be *completely free*.
+
 ##### This readme is based off of [Viva New Vegas's Readme](https://github.com/TDarkShadow/vivanewvegas-wabbajack/blob/master/README.md), [Starstruck Courier's readme](https://github.com/Kaethela/Starstruck-Courier/blob/main/README.md) and [Qwest's readme](https://github.com/SovnSkyrim/QWEST/blob/main/README.md). <!-- omit in toc -->
